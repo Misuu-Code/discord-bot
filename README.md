@@ -1,4 +1,4 @@
-<h1 align="center">Dicord Bot Management</h1>
+<h1 align="center">Discord Bot Management</h1>
 
 <p align="center">
   A Discord Bot Ticket Tool, Moderation, Welcome/GoodBye System,
