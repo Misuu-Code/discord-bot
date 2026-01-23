@@ -1,3 +1,2 @@
-import asyncio
-import discord,py
-from dotenv import load_dotenv
+discord.py
+python-dotenv
